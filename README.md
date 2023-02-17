@@ -43,4 +43,4 @@
 
 </div>
 
-![Snake animation](https://github.com/clarawox/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/clarawox/clarawox/blob/output/github-contribution-grid-snake.svg)
