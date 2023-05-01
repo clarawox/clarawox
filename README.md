@@ -20,7 +20,7 @@
   </a>
 
   <a href="https://github.com/clarawox">
-    <img height="1170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarawox&layout=compact&langs_count=8&theme=dracula"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarawox&layout=compact&langs_count=8&theme=dracula"/>
   </a>
   
   <div style="display: inline_block"><br>
