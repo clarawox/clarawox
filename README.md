@@ -3,7 +3,7 @@
 
 - 😄 Pronomes: Ela/dela
 - ✨ 18 anos, São Paulo - Brasil 
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas - SENAI Armando de Arruda Pereira
+- 🌱 Formada em Análise e Desenvolvimento de Sistemas - SENAI Armando de Arruda Pereira
 - 💻 Atualmente trabalhando com  **SQL**, **Python** e **Qlik Sense** 
 - 📖 Estudando **HTML**, **CSS**, **JavaScript** e **Java**
 - 💬 English (USA)
